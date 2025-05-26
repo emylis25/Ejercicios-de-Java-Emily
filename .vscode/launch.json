@@ -8,6 +8,27 @@
             "type": "java",
             "name": "Main",
             "request": "launch",
+            "mainClass": "EjerciciosPag47ejerci3.Main",
+            "projectName": "ejercicios de java_6f069251"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "EjerciciosPag47ejerc2.Main",
+            "projectName": "ejercicios de java_6f069251"
+        },
+        {
+            "type": "java",
+            "name": "Principal",
+            "request": "launch",
+            "mainClass": "EjerciciosPag47.Principal",
+            "projectName": "ejercicios de java_6f069251"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
             "mainClass": "EjerciciosPag40.Main",
             "projectName": "ejercicios de java_6f069251"
         },
